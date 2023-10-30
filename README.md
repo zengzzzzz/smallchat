@@ -1,6 +1,6 @@
 # Go SmallChat Server
 
-A simple chat server implemented in Go, allowing multiple clients to connect, exchange messages, and set nicknames.
+A simple chat server implemented in Go, allowing multiple clients to connect, exchange messages, and set nicknames. This reposity reference from [smallchat](https://github.com/antirez/smallchat).
 
 ## Table of Contents
 
